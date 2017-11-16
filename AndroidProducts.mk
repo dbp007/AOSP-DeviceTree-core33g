@@ -18,4 +18,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/aosp_grandprimeve3g.mk
+	$(LOCAL_DIR)/core33g.mk
